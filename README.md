@@ -21,6 +21,9 @@ Place a `gallery` tag in your content file, e.g.:
 {% endgallery %}
 ```
 
+If you don't specify `columns`, it will float to the maximum number
+of columns that the current screen can display.
+
 Examples
 ========
 * [post](https://github.com/MartinThoma/MartinThoma.github.io/blob/source/_posts/2013-10-22-working-terminal.md), [rendered post](http://martin-thoma.com/working-terminal/)
